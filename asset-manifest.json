@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webview-sample-website/static/css/main.8e4cbbe8.chunk.css",
+    "main.css": "/webview-sample-website/static/css/main.49372158.chunk.css",
     "main.js": "/webview-sample-website/static/js/main.f8b68aef.chunk.js",
     "main.js.map": "/webview-sample-website/static/js/main.f8b68aef.chunk.js.map",
     "runtime-main.js": "/webview-sample-website/static/js/runtime-main.6516b109.js",
@@ -8,15 +8,15 @@
     "static/js/2.421e52fe.chunk.js": "/webview-sample-website/static/js/2.421e52fe.chunk.js",
     "static/js/2.421e52fe.chunk.js.map": "/webview-sample-website/static/js/2.421e52fe.chunk.js.map",
     "index.html": "/webview-sample-website/index.html",
-    "precache-manifest.04588928070fd68d8d834739bfa3f309.js": "/webview-sample-website/precache-manifest.04588928070fd68d8d834739bfa3f309.js",
+    "precache-manifest.6c658f872d015b452b33f7a5cdcc0ce1.js": "/webview-sample-website/precache-manifest.6c658f872d015b452b33f7a5cdcc0ce1.js",
     "service-worker.js": "/webview-sample-website/service-worker.js",
-    "static/css/main.8e4cbbe8.chunk.css.map": "/webview-sample-website/static/css/main.8e4cbbe8.chunk.css.map",
+    "static/css/main.49372158.chunk.css.map": "/webview-sample-website/static/css/main.49372158.chunk.css.map",
     "static/js/2.421e52fe.chunk.js.LICENSE": "/webview-sample-website/static/js/2.421e52fe.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.6516b109.js",
     "static/js/2.421e52fe.chunk.js",
-    "static/css/main.8e4cbbe8.chunk.css",
+    "static/css/main.49372158.chunk.css",
     "static/js/main.f8b68aef.chunk.js"
   ]
 }
