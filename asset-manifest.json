@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webview-sample-website/static/css/main.d1b05096.chunk.css",
+    "main.js": "/webview-sample-website/static/js/main.9b9a01cc.chunk.js",
+    "main.js.map": "/webview-sample-website/static/js/main.9b9a01cc.chunk.js.map",
+    "runtime-main.js": "/webview-sample-website/static/js/runtime-main.6516b109.js",
+    "runtime-main.js.map": "/webview-sample-website/static/js/runtime-main.6516b109.js.map",
+    "static/js/2.cf492c4b.chunk.js": "/webview-sample-website/static/js/2.cf492c4b.chunk.js",
+    "static/js/2.cf492c4b.chunk.js.map": "/webview-sample-website/static/js/2.cf492c4b.chunk.js.map",
+    "index.html": "/webview-sample-website/index.html",
+    "precache-manifest.17b8cbc6a2123056e79dbfadd80b85d5.js": "/webview-sample-website/precache-manifest.17b8cbc6a2123056e79dbfadd80b85d5.js",
+    "service-worker.js": "/webview-sample-website/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/webview-sample-website/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.cf492c4b.chunk.js.LICENSE": "/webview-sample-website/static/js/2.cf492c4b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/webview-sample-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6516b109.js",
+    "static/js/2.cf492c4b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9b9a01cc.chunk.js"
+  ]
+}
